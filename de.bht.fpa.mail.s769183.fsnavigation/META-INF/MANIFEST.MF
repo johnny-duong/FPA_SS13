@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Fsnavigation
+Bundle-SymbolicName: de.bht.fpa.mail.s769183.fsnavigation;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: de.bht.fpa.mail.s769183.fsnavigation.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ de.bht.fpa.mail.common
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ClassPath: .,
+ swing2swt.jar,
+ swt-grouplayout.jar
+Export-Package: de.bht.fpa.mail.s769183.fsnavigation.model

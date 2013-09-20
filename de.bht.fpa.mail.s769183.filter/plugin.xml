@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         point="org.eclipse.ui.commands">
+      <category
+            id="de.bht.fpa.mail.s769183.filter.Filter"
+            name="Filter">
+      </category>
+      <command
+            categoryId="de.bht.fpa.mail.s769183.filter.Filter"
+            id="de.bht.fpa.mail.s769183.filter.commands.filterCommand"
+            name="Configure Filter">
+      </command>
+      <command
+      		categoryId="de.bht.fpa.mail.s769183.filter.Filter"
+            id="de.bht.fpa.mail.s769183.filter.commands.ClearFilter"
+            name="Clear Filter">
+      </command>
+   </extension>
+   <extension
+         point="org.eclipse.ui.handlers">
+      <handler
+            class="de.bht.fpa.mail.s769183.filterDialog.handlers.FilterHandler"
+            commandId="de.bht.fpa.mail.s769183.filter.commands.filterCommand">
+      </handler>
+      <handler
+            class="de.bht.fpa.mail.s769183.filterDialog.handlers.ClearFilterHandler"
+            commandId="de.bht.fpa.mail.s769183.filter.commands.ClearFilter">
+      </handler>
+   </extension>
+   <extension
+         point="org.eclipse.ui.menus">
+      <menuContribution
+      		allPopups="false"
+            locationURI="menu:org.eclipse.ui.main.menu?after=additions">
+         <menu
+               id="de.bht.fpa.mail.s769183.filter.menus.Filter"
+               label="Filter">
+            <command
+                  commandId="de.bht.fpa.mail.s769183.filter.commands.filterCommand"
+                  id="de.bht.fpa.mail.s769183.filter.menus.Filter"
+   				  label="Configure Filter"
+   				  mnemonic="F"
+   				  style="push">
+            </command>
+            <command
+                  commandId="de.bht.fpa.mail.s769183.filter.commands.ClearFilter"
+                  id="de.bht.fpa.mail.s769183.filter.menus.ClearFilter"
+                  label="Clear Filter"
+                  style="push">
+            </command>
+         </menu>
+      </menuContribution>
+   </extension>
+   <extension
+         point="org.eclipse.ui.startup">
+      <startup
+            class="de.bht.fpa.mail.s769183.filterExecutionListener.MyStartup">
+      </startup>
+   </extension>
+
+</plugin>

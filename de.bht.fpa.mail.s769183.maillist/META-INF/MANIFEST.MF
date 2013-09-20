@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Maillist
+Bundle-SymbolicName: de.bht.fpa.mail.s769183.maillist;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: de.bht.fpa.mail.s769183.maillist.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ de.bht.fpa.mail.common
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Import-Package: de.ralfebert.rcputils.properties
+Export-Package: de.bht.fpa.mail.s769183.maillist.view, 
+ de.bht.fpa.mail.s769183.maillist.BarFilter
+ 
+

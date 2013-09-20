@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Statusbar
+Bundle-SymbolicName: de.bht.fpa.mail.s769183.statusbar;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: de.bht.fpa.mail.s769183.statusbar.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ de.bht.fpa.mail.s769183.fsnavigation,
+ de.bht.fpa.mail.common
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: de.bht.fpa.mail.s769183.statusbar
+
+

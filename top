@@ -1,0 +1,197 @@
+[33mcommit f9ad853a0ebf34e643b0b88db21d8897d86ce7b2[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Tue Jun 25 11:35:10 2013 +0200
+
+    Meilenstein 3: Fehler: Account cannot contain messages
+
+[33mcommit 29014f73ed0ef8b1de8d6c46bfb02d7578f15dc4[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Tue Jun 25 10:58:46 2013 +0200
+
+    Teilaufgabe 10
+
+[33mcommit 5313e14b4c459f8c43492d7ee9973c58b198ab6d[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Tue Jun 25 09:52:24 2013 +0200
+
+    Teilaufgabe 9 Fehlerbehebung
+
+[33mcommit 2be7ca3cc1bff0c669a547a9693b5ff71223ee1a[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Tue Jun 25 09:39:35 2013 +0200
+
+    Fehler
+
+[33mcommit 356f3c250706fe66b6887095eb298ac5ed21fce2[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Tue Jun 25 09:19:32 2013 +0200
+
+    Meilenstein 3 Aufg 9
+
+[33mcommit bc94b1ba1934ce914e00e08ec64c60e9f7d87b7b[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Tue Jun 18 09:41:28 2013 +0200
+
+    Anfang Teilaufgabe 9
+
+[33mcommit 03e10e0c6f105433ce5722734f876f8eeb0eab8a[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Tue Jun 18 08:59:32 2013 +0200
+
+    unimportant changes @ MyExecutionListener
+
+[33mcommit 80959af171f4abd8c145951f9985c2f9374c30c9[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Thu Jun 13 03:02:14 2013 +0200
+
+    Teilaufgabe 6 Statusbar added
+
+[33mcommit 9e13ad200bb15ebdb879037bfb180dd5e4a00719[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Thu Jun 13 02:57:53 2013 +0200
+
+    Teilaufgabe 6 Statusbar added
+
+[33mcommit d9ec028be6b6e1db6a95f3ef4bb170e8b4753e52[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Thu Jun 13 02:18:56 2013 +0200
+
+    Teilaufgabe 8 clear filter zusatz
+
+[33mcommit b3b527256d0355a797562290fafca54186bd1f7f[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Thu Jun 13 01:41:23 2013 +0200
+
+    Teilaufgabe 8 NullPointer entfernt
+
+[33mcommit 713f0f4aec95ea5ac1f37e22768e92891e878917[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Thu Jun 13 00:43:12 2013 +0200
+
+    Teilaufgabe 7 JUnit Test hinzugefuegt
+
+[33mcommit 907cef69c75d25138b73528e6610e017c299e681[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Wed Jun 12 21:49:23 2013 +0200
+
+    Teilaufgabe 7 ohne Zusatz & Teilaufgabe 8 NullPointerException
+
+[33mcommit 6c123e425c604b88a30ef130e3ed71bc1881ec6d[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Tue May 28 11:13:19 2013 +0200
+
+    Aufg. 5 SearchBar Completed
+
+[33mcommit 6593ad669344ed7939d41929d2865806e4fd891e[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Wed May 22 14:49:45 2013 +0200
+
+    Aufg. 6 MessageView hinzugefuegt
+
+[33mcommit 9c1f12aba2fb3d67945df6e12a240e5ba8a63316[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Wed May 22 14:41:51 2013 +0200
+
+    Aufg. 6 ohne Zusatz
+
+[33mcommit 203201f39bf8255ca2eb57088ec2538157b0f6cd[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Wed May 22 10:40:53 2013 +0200
+
+    Aufg 5 inkl. SearchField ohne Funktion
+
+[33mcommit 64736fe21ee2dfba6f57dba086902d90e9ff4e4e[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Tue May 21 11:57:07 2013 +0200
+
+    Teilaufgabe 5 ohne ADDON fertig
+
+[33mcommit 7b56c4a002cb2299b4f73872260b611dfffa214a[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Tue May 7 10:50:38 2013 +0200
+
+    Teilaufgabe 4 fertig
+
+[33mcommit fb4cd6c776af06214332adf4960597a8fcf2e26b[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Mon May 6 16:57:15 2013 +0200
+
+    Teilaufgabe 3 Bugfix: NullPointerException at Dialog cancel
+
+[33mcommit 1d46042da4250d1e7f33a5c7d4af5d13676d4a7f[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Mon May 6 16:00:53 2013 +0200
+
+    import mail.common
+
+[33mcommit a7587e01ab6d925a9e622a0adf82746b0dedb74f[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Mon May 6 13:07:22 2013 +0200
+
+    Teilaufgabe 3 ohne History fertig
+
+[33mcommit f18bb5fb412b515eee9d7891e5a1411fe825be4d[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Mon Apr 29 13:24:30 2013 +0200
+
+    Teilaufgabe 3 Extension added
+
+[33mcommit 9e14003ad542359fa081cd9a4972613fedbcd63e[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Mon Apr 29 13:19:15 2013 +0200
+
+    Update Teilaufgabe 2 FileSystem-Klassen verschoben
+
+[33mcommit 2b831176b157f2b90b6e875259316eb0f1ce6951[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Mon Apr 29 13:08:46 2013 +0200
+
+    Teilaufgabe 2 finished
+
+[33mcommit 7436c15fb2039aca95368c883002b7dd2ee89cfe[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Mon Apr 22 23:56:12 2013 +0200
+
+    Teilaufgabe 1 done
+
+[33mcommit 13720c9cb8f7aab0b6d017e2a6d62426608042ef[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Mon Apr 22 23:46:38 2013 +0200
+
+    new Project
+
+[33mcommit 8977f05a03c5ca6bef11bd3e93605f6e8f1cfefd[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Tue Apr 16 10:58:18 2013 +0200
+
+    created project
+
+[33mcommit 004b8ca8c2f64df5279043c96ddcad8d3d61c480[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Fri Apr 12 14:14:05 2013 +0200
+
+    .gitignore added
+
+[33mcommit b27ddace68f6ebc84cdd92969f37072eda649161[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Fri Apr 12 13:50:19 2013 +0200
+
+    README modified
+
+[33mcommit 176155995ee565034515763420fe8e86ed7cc5c6[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Fri Apr 12 13:47:04 2013 +0200
+
+    nichts
+
+[33mcommit 18981fbea8ca248c9de39f3a850f90673f87b936[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Fri Apr 12 13:37:27 2013 +0200
+
+    commit test
+
+[33mcommit d7c6cca64e6b9b36e4cdda937673f2833f95f8ea[m
+Author: Johnny Duong <s40383@beuth-hochschule.de>
+Date:   Tue Apr 9 13:41:11 2013 +0200
+
+    first commit
